@@ -6,7 +6,7 @@
   <p>
     <a href="https://youtube.com/@kinetric-labs">YouTube</a> &nbsp;·&nbsp;
     <a href="https://github.com/kinetric-labs">Projects</a> &nbsp;·&nbsp;
-    <a href="mailto:contact@kinetric.ai">Contact</a>
+    <a href="kinetric.labs@gmail.com">Contact</a>
   </p>
 </div>
 
